@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sashwat-s-Portfolio/static/css/main.79de523d.css",
+    "main.js": "/Sashwat-s-Portfolio/static/js/main.633b7a34.js",
+    "static/media/image.png": "/Sashwat-s-Portfolio/static/media/image.a55b9b52df1352caeb62.png",
+    "static/media/portfolio-2.png": "/Sashwat-s-Portfolio/static/media/portfolio-2.cdcd2a5cc1100dce3653.png",
+    "static/media/portfolio-1.png": "/Sashwat-s-Portfolio/static/media/portfolio-1.32acfbd3f5190dd96721.png",
+    "static/media/portfolio-6.png": "/Sashwat-s-Portfolio/static/media/portfolio-6.4d3d73d8c894a2617a78.png",
+    "static/media/portfolio-5.png": "/Sashwat-s-Portfolio/static/media/portfolio-5.1c1b31d764eebc1a0b0c.png",
+    "static/media/portfolio-3.png": "/Sashwat-s-Portfolio/static/media/portfolio-3.c8b4a1f469cb9b363019.png",
+    "static/media/portfolio-4.png": "/Sashwat-s-Portfolio/static/media/portfolio-4.c1bd22b316b9b9dc4925.png",
+    "static/media/ui-design.png": "/Sashwat-s-Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Sashwat-s-Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Sashwat-s-Portfolio/index.html",
+    "main.79de523d.css.map": "/Sashwat-s-Portfolio/static/css/main.79de523d.css.map",
+    "main.633b7a34.js.map": "/Sashwat-s-Portfolio/static/js/main.633b7a34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79de523d.css",
+    "static/js/main.633b7a34.js"
+  ]
+}
